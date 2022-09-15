@@ -1,10 +1,3 @@
-//
-//  FruitDetailsView.swift
-//  Fruits
-//
-//  Created by Shashikant Bhadke on 14/09/22.
-//
-
 import SwiftUI
 
 struct FruitDetailsView: View {
